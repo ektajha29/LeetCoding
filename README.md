@@ -28,3 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ektajha29/LeetCoding/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/ektajha29/LeetCoding/tree/master/1013-fibonacci-number) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ektajha29/LeetCoding/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ektajha29/LeetCoding/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ektajha29/LeetCoding/tree/master/1013-fibonacci-number) |
