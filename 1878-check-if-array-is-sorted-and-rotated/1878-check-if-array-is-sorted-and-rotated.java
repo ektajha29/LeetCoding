@@ -15,11 +15,6 @@ class Solution {
 
     public static void main(String[] args) {
         int[] arr1 = {2, 5, 7, 8};
-        int[] arr2 = {7, 8, 2, 5};
-        int[] arr3 = {8, 7, 2, 5};
-
-        System.out.println(check(arr1)); 
-        System.out.println(check(arr2));
-        System.out.println(check(arr3)); 
+        System.out.println(check(arr1));
     }
 }
