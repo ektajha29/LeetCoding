@@ -10,7 +10,7 @@ class Solution {
                 if (nums[n - 1] > nums[0]) {
             countBreaks++;
         }
-        return countBreaks <= 1;
+        return (countBreaks <= 1)?true:false;
     }
 
     public static void main(String[] args) {
