@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ektajha29/LeetCoding/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ektajha29/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/ektajha29/LeetCoding/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ektajha29/LeetCoding/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ektajha29/LeetCoding/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -67,3 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ektajha29/LeetCoding/tree/master/0268-missing-number) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
