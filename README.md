@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ektajha29/LeetCoding/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/ektajha29/LeetCoding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ektajha29/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ektajha29/LeetCoding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ektajha29/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ektajha29/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ektajha29/LeetCoding/tree/master/0189-rotate-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ektajha29/LeetCoding/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ektajha29/LeetCoding/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ektajha29/LeetCoding/tree/master/0268-missing-number) |
