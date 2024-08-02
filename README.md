@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ektajha29/LeetCoding/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ektajha29/LeetCoding/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0073-set-matrix-zeroes) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ektajha29/LeetCoding/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ektajha29/LeetCoding/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ektajha29/LeetCoding/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/ektajha29/LeetCoding/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
