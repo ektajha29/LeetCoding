@@ -11,10 +11,11 @@ class Solution {
         for (int i = 0; i < t.length(); i++) {
             charCount[t.charAt(i) - 'a']--;
         }
-        for (int count : charCount) {
-            if (count != 0) {
-                return false;
-            }
+         for (int i = 0; i < 26; i++) {
+      if (charCount[i] != 0)
+        return false;
+    
+            
         }
 
         return true;
