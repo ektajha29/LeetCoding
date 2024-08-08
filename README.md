@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ektajha29/LeetCoding/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/ektajha29/LeetCoding/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ektajha29/LeetCoding/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ektajha29/LeetCoding/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/ektajha29/LeetCoding/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ektajha29/LeetCoding/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
