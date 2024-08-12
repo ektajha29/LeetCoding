@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ektajha29/LeetCoding/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ektajha29/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/ektajha29/LeetCoding/tree/master/0205-isomorphic-strings) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ektajha29/LeetCoding/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/ektajha29/LeetCoding/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ektajha29/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ektajha29/LeetCoding/tree/master/0242-valid-anagram) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ektajha29/LeetCoding/tree/master/0012-integer-to-roman) |
 | [2032-largest-odd-number-in-string](https://github.com/ektajha29/LeetCoding/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
