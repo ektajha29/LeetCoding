@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/ektajha29/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ektajha29/LeetCoding/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ektajha29/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ektajha29/LeetCoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Union Find
 |  |
 | ------- |
@@ -210,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ektajha29/LeetCoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
