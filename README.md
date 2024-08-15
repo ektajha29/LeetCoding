@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ektajha29/LeetCoding/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ektajha29/LeetCoding/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ektajha29/LeetCoding/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ektajha29/LeetCoding/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ektajha29/LeetCoding/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ektajha29/LeetCoding/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ektajha29/LeetCoding/tree/master/0205-isomorphic-strings) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/ektajha29/LeetCoding/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
