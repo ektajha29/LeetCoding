@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ektajha29/LeetCoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
