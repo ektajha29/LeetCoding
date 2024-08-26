@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ektajha29/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ektajha29/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ektajha29/LeetCoding/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ektajha29/LeetCoding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0908-middle-of-the-linked-list) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ektajha29/LeetCoding/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ektajha29/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ektajha29/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ektajha29/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ektajha29/LeetCoding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ektajha29/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ektajha29/LeetCoding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ektajha29/LeetCoding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ektajha29/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ektajha29/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ektajha29/LeetCoding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0237-delete-node-in-a-linked-list) |
