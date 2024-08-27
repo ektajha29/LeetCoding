@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ektajha29/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ektajha29/LeetCoding/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ektajha29/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ektajha29/LeetCoding/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ektajha29/LeetCoding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ektajha29/LeetCoding/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/0908-middle-of-the-linked-list) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ektajha29/LeetCoding/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ektajha29/LeetCoding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
