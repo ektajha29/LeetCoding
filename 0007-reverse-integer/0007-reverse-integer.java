@@ -13,7 +13,12 @@ class Solution {
             rev = rev * 10 + ld;
             num = num / 10;  
         }
+        if(x<0){
+            return -rev;
+        }
+        else{
+            return rev;
+        }
         
-        return (x < 0) ? (-rev) : rev; 
     }
 }
