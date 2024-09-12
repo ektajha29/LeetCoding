@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ektajha29/LeetCoding/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ektajha29/LeetCoding/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ektajha29/LeetCoding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ektajha29/LeetCoding/tree/master/0496-next-greater-element-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ektajha29/LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ektajha29/LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ektajha29/LeetCoding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ektajha29/LeetCoding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ektajha29/LeetCoding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ektajha29/LeetCoding/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ektajha29/LeetCoding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ektajha29/LeetCoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
