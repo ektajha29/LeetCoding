@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ektajha29/LeetCoding/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ektajha29/LeetCoding/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/ektajha29/LeetCoding/tree/master/0735-asteroid-collision) |
+| [0792-binary-search](https://github.com/ektajha29/LeetCoding/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/ektajha29/LeetCoding/tree/master/0943-sum-of-subarray-minimums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ektajha29/LeetCoding/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ektajha29/LeetCoding/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -334,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ektajha29/LeetCoding/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/ektajha29/LeetCoding/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
