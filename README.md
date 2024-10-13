@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ektajha29/LeetCoding/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/ektajha29/LeetCoding/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ektajha29/LeetCoding/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ektajha29/LeetCoding/tree/master/0503-next-greater-element-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ektajha29/LeetCoding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ektajha29/LeetCoding/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ektajha29/LeetCoding/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ektajha29/LeetCoding/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0948-sort-an-array) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ektajha29/LeetCoding/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ektajha29/LeetCoding/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
